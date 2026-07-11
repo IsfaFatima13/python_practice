@@ -1,0 +1,6 @@
+a=(1,2,3,4,5,3,6,7,8,"isfa",False,"fatima")
+print(type(a))
+b=(1,)
+print(type(b))
+print(a.count(3))
+print(a.index(3))
