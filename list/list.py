@@ -2,9 +2,9 @@ array=["apple," ," grapes","mangoe",2,3,3.44,False,"kadu"]
 print(array)
 print(array[0])
 array[0]="kela"
-print(array)
+print(array)   
 print(array[1:4])
-array.append("jamun")
+array.append("jamun ")
 print(array)
 # array.prepend("cherry")
 array.reverse()
