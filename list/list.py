@@ -4,7 +4,7 @@ print(array[0])
 array[0]="kela"
 print(array)   
 print(array[1:4])
-array.append("jamun ")
+array.append("jamu                                n ")
 print(array)
 # array.prepend("cherry")
 array.reverse()
